@@ -1,5 +1,11 @@
 # @read-frog/extension
 
+## 1.33.1
+
+### Patch Changes
+
+- [#1394](https://github.com/mengxi-ream/read-frog/pull/1394) [`619c83d`](https://github.com/mengxi-ream/read-frog/commit/619c83defd417ad2c68c8e0c6258afe5e5d79b04) Thanks [@taiiiyang](https://github.com/taiiiyang)! - feat(subtitles): add embed translate button and settings panel injection
+
 ## 1.33.0
 
 ### Minor Changes
